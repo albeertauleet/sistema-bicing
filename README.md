@@ -1,4 +1,2 @@
 # sistema-bicing
-C++ project of the PRO2 subject of the Computer Engineering degree at the UPC that simulates the Bicing system, used in Barcelona.
-
-C++ project of the PRO2 subject of the Bachelor's Degree in Computer Engineering at the UPC that simulates the Bicing system, used in Barcelona.
+It consists of a bicing system in the form of a binary tree, where each node is a different station. At each station you can apply different operations to organize the different bikes in the system
